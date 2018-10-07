@@ -25,7 +25,7 @@ This course is an intensive introduction to the most widely-used machine learnin
 * Autoencoders, distributed representations, and deep learning
 
 ## My Opinion/Comment
-#### I audited for this course and pledged to complete it. I finished every Engagement, Quiz, Problem Set and Programming Assignment. I beleive this is of the best online course on fundamentals of ML as it maintains a right balance between theory and programming.
+#### I audited for this course and pledged to complete it. I finished every Engagement, Quiz, Problem Set and Programming Assignment. I believe this is of the best online course on fundamentals of ML as it maintains a right balance between theory and programming.
 
 #### I have provided my Assignments here (as an evidence of finishing and repository for the course), which I completed during a month's time with whatever knowledge I gathered during the course without any help. They are definitely not the efficient ones but correct for sure. Iff you fork it, find an efficient solution, please send a pull request. 
 
